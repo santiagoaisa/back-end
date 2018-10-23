@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>MisOperacionesMatematicas</id>
+    <version>1.0.0</version>
+    <authors>Sixto Santiago Aisa Incapuño</authors>
+    <owners>Sixto Santiago Aisa Incapuño</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Biblioteca para realizar las siguientes operacion matemáticas
+- sumar(numero1, numero2)
+- restar(numero1, numero2)
+- dividir(divisor, dividendo)
+- resto(divisor, dividendo)
+- potencia(numero,exponente)
+- raiz(numero1,numero2)
+- esPrimo(numero)</description>
+    <copyright>Tecsup - Codigo</copyright>
+    <dependencies>
+      <group targetFramework=".NETCoreApp2.1" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\Tecsup\source\repos\MisOperacionesMatematicas\MisOperacionesMatematicas\bin\Release\netcoreapp2.1\MisOperacionesMatematicas.dll" target="lib\netcoreapp2.1\MisOperacionesMatematicas.dll" />
+  </files>
+</package>

@@ -1,0 +1,11 @@
+C:\Users\Tecsup\source\repos\EjerciciosIfElseSwitch\ConsoleApp10\bin\Debug\netcoreapp2.1\Ejercicio11.deps.json
+C:\Users\Tecsup\source\repos\EjerciciosIfElseSwitch\ConsoleApp10\bin\Debug\netcoreapp2.1\Ejercicio11.runtimeconfig.json
+C:\Users\Tecsup\source\repos\EjerciciosIfElseSwitch\ConsoleApp10\bin\Debug\netcoreapp2.1\Ejercicio11.runtimeconfig.dev.json
+C:\Users\Tecsup\source\repos\EjerciciosIfElseSwitch\ConsoleApp10\bin\Debug\netcoreapp2.1\Ejercicio11.dll
+C:\Users\Tecsup\source\repos\EjerciciosIfElseSwitch\ConsoleApp10\bin\Debug\netcoreapp2.1\Ejercicio11.pdb
+C:\Users\Tecsup\source\repos\EjerciciosIfElseSwitch\ConsoleApp10\obj\Debug\netcoreapp2.1\Ejercicio11.csprojAssemblyReference.cache
+C:\Users\Tecsup\source\repos\EjerciciosIfElseSwitch\ConsoleApp10\obj\Debug\netcoreapp2.1\Ejercicio11.csproj.CoreCompileInputs.cache
+C:\Users\Tecsup\source\repos\EjerciciosIfElseSwitch\ConsoleApp10\obj\Debug\netcoreapp2.1\Ejercicio11.AssemblyInfoInputs.cache
+C:\Users\Tecsup\source\repos\EjerciciosIfElseSwitch\ConsoleApp10\obj\Debug\netcoreapp2.1\Ejercicio11.AssemblyInfo.cs
+C:\Users\Tecsup\source\repos\EjerciciosIfElseSwitch\ConsoleApp10\obj\Debug\netcoreapp2.1\Ejercicio11.dll
+C:\Users\Tecsup\source\repos\EjerciciosIfElseSwitch\ConsoleApp10\obj\Debug\netcoreapp2.1\Ejercicio11.pdb

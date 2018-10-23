@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": "57b32976918855f8da63d1fffba3c2b96aa2df74"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "UsandoLaLibreriaMisOperacionesMatematicas/1.0.0": {
+        "dependencies": {
+          "MisOperacionesMatematicas": "1.0.2"
+        },
+        "runtime": {
+          "UsandoLaLibreriaMisOperacionesMatematicas.dll": {}
+        }
+      },
+      "MisOperacionesMatematicas/1.0.2": {
+        "runtime": {
+          "lib/netcoreapp2.1/MisOperacionesMatematicas.dll": {
+            "assemblyVersion": "1.0.2.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "UsandoLaLibreriaMisOperacionesMatematicas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MisOperacionesMatematicas/1.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-dShwv0Wx/DC7eeYuSm+t9U1N24jGyabkNE9exZXlIsVYOVGrgO5wt1T0O8NvvOUQiq3fYbhuMEM5qWJDACGLew==",
+      "path": "misoperacionesmatematicas/1.0.2",
+      "hashPath": "misoperacionesmatematicas.1.0.2.nupkg.sha512"
+    }
+  }
+}

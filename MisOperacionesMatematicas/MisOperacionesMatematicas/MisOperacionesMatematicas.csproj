@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <Description>Biblioteca para realizar las siguientes operacion matemáticas
+- sumar(numero1, numero2)
+- restar(numero1, numero2)
+- dividir(divisor, dividendo)
+- resto(divisor, dividendo)
+- potencia(numero,exponente)
+- raiz(numero1,numero2)
+- esPrimo(numero)</Description>
+    <Copyright>Tecsup - Codigo</Copyright>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <FileVersion>1.0.0.0</FileVersion>
+    <Authors>Sixto Santiago Aisa Incapuño</Authors>
+    <Version>1.0.2</Version>
+    <NeutralLanguage>es-PE</NeutralLanguage>
+  </PropertyGroup>
+
+</Project>

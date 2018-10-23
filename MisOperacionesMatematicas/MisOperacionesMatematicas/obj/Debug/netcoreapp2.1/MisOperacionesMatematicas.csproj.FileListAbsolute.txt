@@ -1,0 +1,9 @@
+c:\users\tecsup\source\repos\MisOperacionesMatematicas\MisOperacionesMatematicas\bin\Debug\netcoreapp2.1\MisOperacionesMatematicas.deps.json
+c:\users\tecsup\source\repos\MisOperacionesMatematicas\MisOperacionesMatematicas\bin\Debug\netcoreapp2.1\MisOperacionesMatematicas.dll
+c:\users\tecsup\source\repos\MisOperacionesMatematicas\MisOperacionesMatematicas\bin\Debug\netcoreapp2.1\MisOperacionesMatematicas.pdb
+c:\users\tecsup\source\repos\MisOperacionesMatematicas\MisOperacionesMatematicas\obj\Debug\netcoreapp2.1\MisOperacionesMatematicas.csprojAssemblyReference.cache
+c:\users\tecsup\source\repos\MisOperacionesMatematicas\MisOperacionesMatematicas\obj\Debug\netcoreapp2.1\MisOperacionesMatematicas.csproj.CoreCompileInputs.cache
+c:\users\tecsup\source\repos\MisOperacionesMatematicas\MisOperacionesMatematicas\obj\Debug\netcoreapp2.1\MisOperacionesMatematicas.AssemblyInfoInputs.cache
+c:\users\tecsup\source\repos\MisOperacionesMatematicas\MisOperacionesMatematicas\obj\Debug\netcoreapp2.1\MisOperacionesMatematicas.AssemblyInfo.cs
+c:\users\tecsup\source\repos\MisOperacionesMatematicas\MisOperacionesMatematicas\obj\Debug\netcoreapp2.1\MisOperacionesMatematicas.dll
+c:\users\tecsup\source\repos\MisOperacionesMatematicas\MisOperacionesMatematicas\obj\Debug\netcoreapp2.1\MisOperacionesMatematicas.pdb

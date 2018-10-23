@@ -1,0 +1,11 @@
+c:\users\tecsup\source\repos\EjerciciosIfElseSwitch\EjerciciosIfElseSwitch\bin\Debug\netcoreapp2.1\Ejercicio1.deps.json
+c:\users\tecsup\source\repos\EjerciciosIfElseSwitch\EjerciciosIfElseSwitch\bin\Debug\netcoreapp2.1\Ejercicio1.runtimeconfig.json
+c:\users\tecsup\source\repos\EjerciciosIfElseSwitch\EjerciciosIfElseSwitch\bin\Debug\netcoreapp2.1\Ejercicio1.runtimeconfig.dev.json
+c:\users\tecsup\source\repos\EjerciciosIfElseSwitch\EjerciciosIfElseSwitch\bin\Debug\netcoreapp2.1\Ejercicio1.dll
+c:\users\tecsup\source\repos\EjerciciosIfElseSwitch\EjerciciosIfElseSwitch\bin\Debug\netcoreapp2.1\Ejercicio1.pdb
+c:\users\tecsup\source\repos\EjerciciosIfElseSwitch\EjerciciosIfElseSwitch\obj\Debug\netcoreapp2.1\Ejercicio1.csprojAssemblyReference.cache
+c:\users\tecsup\source\repos\EjerciciosIfElseSwitch\EjerciciosIfElseSwitch\obj\Debug\netcoreapp2.1\Ejercicio1.csproj.CoreCompileInputs.cache
+c:\users\tecsup\source\repos\EjerciciosIfElseSwitch\EjerciciosIfElseSwitch\obj\Debug\netcoreapp2.1\Ejercicio1.AssemblyInfoInputs.cache
+c:\users\tecsup\source\repos\EjerciciosIfElseSwitch\EjerciciosIfElseSwitch\obj\Debug\netcoreapp2.1\Ejercicio1.AssemblyInfo.cs
+c:\users\tecsup\source\repos\EjerciciosIfElseSwitch\EjerciciosIfElseSwitch\obj\Debug\netcoreapp2.1\Ejercicio1.dll
+c:\users\tecsup\source\repos\EjerciciosIfElseSwitch\EjerciciosIfElseSwitch\obj\Debug\netcoreapp2.1\Ejercicio1.pdb
