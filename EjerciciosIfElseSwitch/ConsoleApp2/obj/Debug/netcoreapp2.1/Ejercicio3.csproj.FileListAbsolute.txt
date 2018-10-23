@@ -9,3 +9,14 @@ c:\users\tecsup\source\repos\EjerciciosIfElseSwitch\ConsoleApp2\obj\Debug\netcor
 c:\users\tecsup\source\repos\EjerciciosIfElseSwitch\ConsoleApp2\obj\Debug\netcoreapp2.1\Ejercicio3.AssemblyInfo.cs
 c:\users\tecsup\source\repos\EjerciciosIfElseSwitch\ConsoleApp2\obj\Debug\netcoreapp2.1\Ejercicio3.dll
 c:\users\tecsup\source\repos\EjerciciosIfElseSwitch\ConsoleApp2\obj\Debug\netcoreapp2.1\Ejercicio3.pdb
+D:\back-end\back-end\EjerciciosIfElseSwitch\ConsoleApp2\bin\Debug\netcoreapp2.1\Ejercicio3.deps.json
+D:\back-end\back-end\EjerciciosIfElseSwitch\ConsoleApp2\bin\Debug\netcoreapp2.1\Ejercicio3.runtimeconfig.json
+D:\back-end\back-end\EjerciciosIfElseSwitch\ConsoleApp2\bin\Debug\netcoreapp2.1\Ejercicio3.runtimeconfig.dev.json
+D:\back-end\back-end\EjerciciosIfElseSwitch\ConsoleApp2\bin\Debug\netcoreapp2.1\Ejercicio3.dll
+D:\back-end\back-end\EjerciciosIfElseSwitch\ConsoleApp2\bin\Debug\netcoreapp2.1\Ejercicio3.pdb
+D:\back-end\back-end\EjerciciosIfElseSwitch\ConsoleApp2\obj\Debug\netcoreapp2.1\Ejercicio3.csprojAssemblyReference.cache
+D:\back-end\back-end\EjerciciosIfElseSwitch\ConsoleApp2\obj\Debug\netcoreapp2.1\Ejercicio3.csproj.CoreCompileInputs.cache
+D:\back-end\back-end\EjerciciosIfElseSwitch\ConsoleApp2\obj\Debug\netcoreapp2.1\Ejercicio3.AssemblyInfoInputs.cache
+D:\back-end\back-end\EjerciciosIfElseSwitch\ConsoleApp2\obj\Debug\netcoreapp2.1\Ejercicio3.AssemblyInfo.cs
+D:\back-end\back-end\EjerciciosIfElseSwitch\ConsoleApp2\obj\Debug\netcoreapp2.1\Ejercicio3.dll
+D:\back-end\back-end\EjerciciosIfElseSwitch\ConsoleApp2\obj\Debug\netcoreapp2.1\Ejercicio3.pdb

@@ -1,0 +1,11 @@
+D:\back-end\back-end\EjercicioBucleFor\EjercicioBucleFor\bin\Debug\netcoreapp2.1\Ejercicio1.deps.json
+D:\back-end\back-end\EjercicioBucleFor\EjercicioBucleFor\bin\Debug\netcoreapp2.1\Ejercicio1.runtimeconfig.json
+D:\back-end\back-end\EjercicioBucleFor\EjercicioBucleFor\bin\Debug\netcoreapp2.1\Ejercicio1.runtimeconfig.dev.json
+D:\back-end\back-end\EjercicioBucleFor\EjercicioBucleFor\bin\Debug\netcoreapp2.1\Ejercicio1.dll
+D:\back-end\back-end\EjercicioBucleFor\EjercicioBucleFor\bin\Debug\netcoreapp2.1\Ejercicio1.pdb
+D:\back-end\back-end\EjercicioBucleFor\EjercicioBucleFor\obj\Debug\netcoreapp2.1\Ejercicio1.csprojAssemblyReference.cache
+D:\back-end\back-end\EjercicioBucleFor\EjercicioBucleFor\obj\Debug\netcoreapp2.1\Ejercicio1.csproj.CoreCompileInputs.cache
+D:\back-end\back-end\EjercicioBucleFor\EjercicioBucleFor\obj\Debug\netcoreapp2.1\Ejercicio1.AssemblyInfoInputs.cache
+D:\back-end\back-end\EjercicioBucleFor\EjercicioBucleFor\obj\Debug\netcoreapp2.1\Ejercicio1.AssemblyInfo.cs
+D:\back-end\back-end\EjercicioBucleFor\EjercicioBucleFor\obj\Debug\netcoreapp2.1\Ejercicio1.dll
+D:\back-end\back-end\EjercicioBucleFor\EjercicioBucleFor\obj\Debug\netcoreapp2.1\Ejercicio1.pdb

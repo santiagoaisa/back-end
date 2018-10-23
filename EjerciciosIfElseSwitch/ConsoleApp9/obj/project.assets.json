@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Tecsup\\source\\repos\\EjerciciosIfElseSwitch\\ConsoleApp9\\Ejercicio10.csproj",
+      "projectUniqueName": "D:\\back-end\\back-end\\EjerciciosIfElseSwitch\\ConsoleApp9\\Ejercicio10.csproj",
       "projectName": "Ejercicio10",
-      "projectPath": "C:\\Users\\Tecsup\\source\\repos\\EjerciciosIfElseSwitch\\ConsoleApp9\\Ejercicio10.csproj",
+      "projectPath": "D:\\back-end\\back-end\\EjerciciosIfElseSwitch\\ConsoleApp9\\Ejercicio10.csproj",
       "packagesPath": "C:\\Users\\Tecsup\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Tecsup\\source\\repos\\EjerciciosIfElseSwitch\\ConsoleApp9\\obj\\",
+      "outputPath": "D:\\back-end\\back-end\\EjerciciosIfElseSwitch\\ConsoleApp9\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
