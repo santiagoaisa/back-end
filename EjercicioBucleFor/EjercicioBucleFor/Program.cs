@@ -12,7 +12,7 @@ namespace EjercicioBucleFor
             //ejercicio3();
             //ejercicio4();
             // ejercicio5();
-            //  ejercicio6();
+              ejercicio6();
             //ejercicio7();
             //ejercicio8();
             //ejercicio9();
@@ -29,7 +29,7 @@ namespace EjercicioBucleFor
             //ejercicio20();
             //ejercicio21();
             // ejercicio22();
-            ejercicio23();
+            //ejercicio23();
         }
 
 
@@ -209,29 +209,29 @@ namespace EjercicioBucleFor
 
             int cantidadNumeros = 10;
             int nota = 0;
-            int mayor=0;
-            int medio = 0;
+            int mayor=0;           
             int menor = 0;
+            double sumaNotas = 0;
 
             for (int n = 1; n <= cantidadNumeros; n++)
             {
                 Console.Write("Ingrese la nota del alumno " + n + "\n");
                 nota = Int32.Parse(Console.ReadLine());
 
-                if (nota>mayor)
-                {
-                    medio = mayor;
-                    mayor = nota;                    
-                }
+                sumaNotas = sumaNotas + nota;
 
-                if (menor==0)
+                if (menor == 0)
                 {
                     menor = nota;
                 }
 
+                if (nota>mayor)
+                {                    
+                    mayor = nota;                    
+                }               
+
                 if (nota<menor)
-                {
-                    medio = menor;
+                {                   
                     menor = nota;
                 }
 
@@ -241,8 +241,9 @@ namespace EjercicioBucleFor
             }
 
             Console.Write("\n");
-            Console.Write($"Nota Menor {menor}\n");
-            Console.Write($"Nota Media {medio}\n");
+            Console.Write($"Nota Menor es {menor}\n");
+            Console.Write($"Nota Mayor es {mayor}\n");
+            Console.Write($"Promedio de 10 notas es  { Math.Round(sumaNotas/10,2)}\n");
 
             Console.Write("\n");
 
