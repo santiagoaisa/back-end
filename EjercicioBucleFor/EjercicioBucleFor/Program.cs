@@ -17,7 +17,15 @@ namespace EjercicioBucleFor
             //ejercicio8();
             //ejercicio9();
             // ejercicio10();
-            ejercicio11();
+            //ejercicio11();
+            //ejercicio12();
+            //ejercicio13();
+            //ejercicio14();
+            //ejercicio15();
+            //ejercicio16();
+            //ejercicio17();
+            //ejercicio18();
+            ejercicio19();
         }
 
 
@@ -432,9 +440,9 @@ namespace EjercicioBucleFor
             
 
             int edad = 0;
-            double r_0_1 = 0;
-            double r_2_2 = 0;
-            double r_3__ = 0;
+            double rango1 = 0;
+            double rango2 = 0;
+            double rango3 = 0;
 
 
             for (int n = 1; n <= muestra; n++)
@@ -445,14 +453,14 @@ namespace EjercicioBucleFor
 
                 if (edad >=0 && edad <= 1)
                 {
-                    r_0_1++;
+                    rango1 = rango1 +1;
                 }else if (edad >= 2 && edad <= 2)
                 {
-                    r_2_2++;
+                    rango2 = rango2 +1;
                 }
-                else if (edad >= 2 && edad <= 2)
+                else if (edad >= 3)
                 {
-                    r_3__++;
+                    rango3= rango3 +1;
                 }
                 
                    
@@ -460,14 +468,314 @@ namespace EjercicioBucleFor
             }
 
             Console.Write("-----------------------\n");
-            Console.Write($"Rango 0 - 1   años {(r_0_1/muestra)*100} \n");
-            Console.Write($"Rango 2 - 2   años {(r_2_2 / muestra) * 100} \n");
-            Console.Write($"Rango 3 - más años {(r_3__ / muestra) * 100} \n");
+
+           
+
+            Console.Write($"Rango 0 - 1   años { Math.Round((rango1/muestra)*100,2)}% \n");
+            Console.Write($"Rango 2 - 2   años {Math.Round((rango2 / muestra) * 100,2)}% \n");
+            Console.Write($"Rango 3 - más años {Math.Round((rango3 / muestra) * 100,2)}% \n");
 
             Console.ReadLine();
 
         }
 
 
+        private static void ejercicio12()
+        {
+            /*
+            12.	Mostrar un listado con los números de 1 al 100.
+             * * * */
+            Console.WriteLine("**** MENU PRINCIPAL ****\n");
+            Console.WriteLine("**** Números del 1 al 100 ****\n");
+            
+            int numero = 0;
+
+           while (numero < 100)
+            {
+                numero+=1;
+              Console.WriteLine($"Número {numero}\n");
+               
+            }
+
+            Console.ReadLine();
+        }
+
+        private static void ejercicio13()
+        {
+            /*
+            13.	Mostrar los números pares de 2 al 200.
+             * * * */
+            Console.WriteLine("**** MENU PRINCIPAL ****\n");
+            Console.WriteLine("**** Números pares del 2 al 200 ****\n");
+
+            int numero = 0;
+
+            while (numero < 200)
+            {
+                numero += 1;
+
+                if (numero % 2==0)
+                {
+                    Console.WriteLine($"Número par {numero}\n");
+                }
+
+                
+
+            }
+
+            Console.ReadLine();
+        }
+
+
+        private static void ejercicio14()
+        {
+            /*
+            14.	Mostrar los números pares de 2 hasta un número N (que es leído por la computadora)
+             * * * */
+            Console.WriteLine("**** MENU PRINCIPAL ****\n");
+            Console.WriteLine("**** Números pares del 2 a N ****\n");
+
+            Console.Write("Ingrese el número N para determinar cuales son pares\n");
+            int final = 0;
+            try
+            {
+                final = Int32.Parse(Console.ReadLine());
+            }
+            catch(FormatException)
+            {
+                Console.Write("\n");
+                Console.Write("Debio Ingresar un Numero\n");
+                Console.ReadLine();
+                return;
+            }
+
+           
+
+            int numero = 0;
+            while (numero < final)
+            {
+                numero += 1;
+
+                if (numero % 2 == 0)
+                {
+                    Console.WriteLine($"Número par {numero}\n");
+                }
+
+
+
+            }
+
+            Console.ReadLine();
+        }
+
+        private static void ejercicio15()
+        {
+            /*
+         15.	Mostrar la sumatoria de los números del 1 al 100.
+             * * * * */
+            Console.WriteLine("**** MENU PRINCIPAL ****\n");
+            Console.WriteLine("**** Mostrar la sumatoria de números del 1 al 100 ****\n");
+
+            int numero = 0;
+            int sumatoria = 0;
+
+            while (numero < 100)
+            {
+                numero += 1;
+                sumatoria += numero;
+
+            }
+
+            Console.WriteLine($"La sumatoria del 1 al 100 es {sumatoria} \n");
+            Console.ReadLine();
+
+        }
+
+        private static void ejercicio16()
+        {
+            /*
+         16.	Mostrar dos listados uno con los números impares de 1 a 999 y otro con los pares de 2 a 1000.
+             * * * * */
+            Console.WriteLine("**** MENU PRINCIPAL ****\n");
+            Console.WriteLine("**** Mostrar dos listados de pares e impares del 1 al 1000 ****\n");
+
+            int numero = 0;
+
+            String cadena = "";
+
+            String cabecera = "Par   Impar";
+
+            while (numero < 1000)
+            {
+                numero += 1;
+
+                if (numero % 2 == 0)
+                {
+                    cadena = cadena + " " + numero + "\n";
+                }
+                else
+                {
+                    cadena = cadena + " " + numero + "";
+                }
+
+
+
+            }
+
+            Console.WriteLine(cabecera);
+            Console.WriteLine(cadena);
+
+            Console.ReadLine();
+
+        }
+
+
+        private static void ejercicio17()
+        {
+            /*
+        17.	Mostrar un listado con los números del 1 al 100, con su respectivo cuadrado al lado. Cada pareja en una línea.
+             * * * * * */
+            Console.WriteLine("**** MENU PRINCIPAL ****\n");
+            Console.WriteLine("**** Mostrar un listados del 1 al 100 con su cuadrado al costado ****\n");
+
+            int numero = 0;
+
+            String cabecera = "Numero  Cuadrado";
+            String cadena = "";
+            
+            while (numero < 100)
+            {
+                numero += 1;
+
+                    cadena = cadena + $" {numero}     " + $"    {Math.Pow(numero,2)} " + "\n";
+               
+            }
+
+            Console.WriteLine(cabecera);
+            Console.WriteLine(cadena);
+
+            Console.ReadLine();
+
+        }
+
+        private static void ejercicio18()
+        {
+            /*
+      18.	Mostrar la tabla de multiplicar de 2 números cualquiera N, que sea leído por la computadora.
+             * * * * * * */
+            Console.WriteLine("**** MENU PRINCIPAL ****\n");
+            Console.WriteLine("**** Mostrar la tabla de multiplicar de dos numeros ****\n");
+
+            Console.Write("Ingrese el numero 1 \n");
+            int numero1 = 0;
+            try
+            {
+                numero1 = Int32.Parse(Console.ReadLine());
+            }
+            catch (FormatException)
+            {
+                Console.Write("\n");
+                Console.Write("Debio Ingresar un Numero\n");
+                Console.ReadLine();
+                return;
+            }
+
+            Console.Write("Ingrese el numero 2 \n");
+            int numero2 = 0;
+            try
+            {
+                numero2 = Int32.Parse(Console.ReadLine());
+            }
+            catch (FormatException)
+            {
+                Console.Write("\n");
+                Console.Write("Debio Ingresar un Numero\n");
+                Console.ReadLine();
+                return;
+            }
+
+
+
+         
+            String cabecera = "Numero  TABLA DEL "+numero2;
+            String cadena = "";
+
+            int i = 0;
+            while (i <= numero2 )
+            {
+                
+                cadena = cadena + $" {numero1} X {i} = {numero1*i}\n";
+                i++;
+            }
+
+            Console.WriteLine(cabecera);
+            Console.WriteLine(cadena);
+
+            Console.ReadLine();
+
+        }
+
+
+        private static void ejercicio19()
+        {
+            /*
+     19.	Mostrar un listado con los números consecutivos de M a N, siendo M y N dos valores que son leídos por la computadora, tales que M < N.
+             * * * * * * * */
+            Console.WriteLine("**** MENU PRINCIPAL ****\n");
+            Console.WriteLine("**** Mostrar un listado con los números consecutivos M a N , tales que M < N. ****\n");
+
+            Console.Write("Ingrese el numero 1 \n");
+            int numero1 = 0;
+            try
+            {
+                numero1 = Int32.Parse(Console.ReadLine());
+            }
+            catch (FormatException)
+            {
+                Console.Write("\n");
+                Console.Write("Debio Ingresar un Numero\n");
+                Console.ReadLine();
+                return;
+            }
+
+            Console.Write("Ingrese el numero 2 \n");
+            int numero2 = 0;
+            try
+            {
+                numero2 = Int32.Parse(Console.ReadLine());
+            }
+            catch (FormatException)
+            {
+                Console.Write("\n");
+                Console.Write("Debio Ingresar un Numero\n");
+                Console.ReadLine();
+                return;
+            }
+
+            if (numero1 > numero2)
+            {
+                Console.Write("\n");
+                Console.Write("El número1 debe ser mayor ál número2\n");
+                Console.ReadLine();
+                return;
+            }
+          
+            String cadena = "";
+            Console.WriteLine("\n");
+
+            while (numero1 <= numero2)
+            {
+
+                cadena = cadena + $"{numero1}\n";
+                numero1++;
+            }
+
+           
+            Console.WriteLine(cadena);
+
+            Console.ReadLine();
+
+        }
+
     }
-}
+    }
