@@ -25,7 +25,11 @@ namespace EjercicioBucleFor
             //ejercicio16();
             //ejercicio17();
             //ejercicio18();
-            ejercicio19();
+            //ejercicio19();
+            //ejercicio20();
+            //ejercicio21();
+            // ejercicio22();
+            ejercicio23();
         }
 
 
@@ -776,6 +780,154 @@ namespace EjercicioBucleFor
             Console.ReadLine();
 
         }
+
+        private static void ejercicio20()
+        {
+            /*
+     20.	Imprimir un listado que contenga en cada línea: Número par del 2 al 200; múltiplos de 3 del 3 al 300; múltiplos de 4 del 4 al 400.
+             * * * * * * * * */
+            Console.WriteLine("**** MENU PRINCIPAL ****\n");
+            Console.WriteLine("**** Imprimir en cada linea ****\n");
+           
+            
+
+
+            int numero = 0;
+           
+            String cadena = "";
+            while (numero <= 200)
+            {
+                if (numero%2==0)
+                {
+                    cadena = cadena + numero + "  ";
+                }                
+                numero++;
+            }
+            ////
+            Console.WriteLine("**** Número par del 2 al 200 ****\n");
+            Console.WriteLine($"{cadena}\n");
+            numero = 3;
+            cadena = "";
+            while (numero <= 300)
+            {
+                if (numero % 3 == 0)
+                {
+                    cadena = cadena + numero + "  ";
+                }
+                numero++;
+            }
+
+            Console.WriteLine("**** Múltiplos de 3 del 3 al 300 ****\n");           
+            Console.WriteLine($"{cadena}\n");
+            ////
+            numero = 4;
+            cadena = "";
+            while (numero <= 400)
+            {
+                if (numero % 4 == 0)
+                {
+                    cadena = cadena + numero + "  ";
+                }
+                numero++;
+            }
+
+            Console.WriteLine("**** Múltiplos de 4 del 4 al 400 ****\n");
+            Console.WriteLine($"{cadena}\n");
+
+            Console.ReadLine();
+
+        }
+
+
+        private static void ejercicio21()
+        {
+            /*
+    21.	Resolver la función f (x)= 3x + 2x – 5 para valores de x de 0 a 10, incrementándose de 1 en 1.
+             * * * * * * * * * */
+            Console.WriteLine("**** MENU PRINCIPAL ****\n");
+            Console.WriteLine("**** Resolver la función f (x)= 3x + 2x – 5 para valores de x de 0 a 10 ****\n");
+
+
+
+
+            int numero = 0;
+
+            String cadena = "";
+            while (numero <= 10)
+            {
+                if (numero % 2 == 0)
+                {
+                    Console.WriteLine($" f({numero}) = {(3*numero)+(2*numero)-5}\n");
+                }
+                numero++;
+            }
+           
+
+            Console.ReadLine();
+
+        }
+
+
+        private static void ejercicio22()
+        {
+            /*
+    22.	Resolver la función y = 3x + 15 – 2(2x) + 3, PARA x que toma valores de 1 al 40, de 2 en 2.
+             * * * * * * * * * * */
+            Console.WriteLine("**** MENU PRINCIPAL ****\n");
+            Console.WriteLine("**** Resolver la función y = 3x + 15 – 2(2x) + 3, PARA x que toma valores de 1 al 40, de 2 en 2 ****\n");
+
+
+
+
+            int numero = 1;
+
+            String cadena = "";
+            while (numero <= 40)
+            {
+                
+                    Console.WriteLine($" f({numero}) = {(3 * numero) + 15 - 2*(2 *numero) + 3}\n");
+               
+                numero+=2;
+            }
+            Console.ReadLine();
+        }
+
+        private static void ejercicio23()
+        {
+            /*
+  23.	Resolver la función z= (4/3x – 2X) / (x + 3) para valores de x de –10 hasta N en incrementos de 0.5. N es leído por el computador y se debe evitar la división por cero.
+             * * * * * * * * * * * */
+            Console.WriteLine("**** MENU PRINCIPAL ****\n");
+            Console.WriteLine("**** Resolver la función z= (4/3x – 2X) / (x + 3) para valores de x de –10 hasta N en incrementos de 0.5. ****\n");
+            Console.Write("Ingrese el numero N \n");
+            int hasta = 0;
+            try
+            {
+                hasta = Int32.Parse(Console.ReadLine());
+            }
+            catch (FormatException)
+            {
+                Console.Write("\n");
+                Console.Write("Debio Ingresar un Numero\n");
+                Console.ReadLine();
+                return;
+            }
+            
+            double numero = -10;
+
+            String cadena = "";
+            while (numero <= hasta)
+            {
+                Console.WriteLine($" f({numero}) = {Math.Round((4/(3*numero) - (2*numero))/  (numero + 3),2) }\n");
+
+                numero += 0.5;
+            }
+
+
+            Console.ReadLine();
+
+        }
+
 
     }
     }

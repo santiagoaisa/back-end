@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\back-end\\back-end\\EjercicioBucleFor\\EjercicioBucleFor\\Ejercicio1.csproj",
+      "projectUniqueName": "D:\\back-end\\EjercicioBucleFor\\EjercicioBucleFor\\Ejercicio1.csproj",
       "projectName": "Ejercicio1",
-      "projectPath": "D:\\back-end\\back-end\\EjercicioBucleFor\\EjercicioBucleFor\\Ejercicio1.csproj",
+      "projectPath": "D:\\back-end\\EjercicioBucleFor\\EjercicioBucleFor\\Ejercicio1.csproj",
       "packagesPath": "C:\\Users\\Tecsup\\.nuget\\packages\\",
-      "outputPath": "D:\\back-end\\back-end\\EjercicioBucleFor\\EjercicioBucleFor\\obj\\",
+      "outputPath": "D:\\back-end\\EjercicioBucleFor\\EjercicioBucleFor\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
