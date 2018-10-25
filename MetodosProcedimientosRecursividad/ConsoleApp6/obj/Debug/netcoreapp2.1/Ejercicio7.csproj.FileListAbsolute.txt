@@ -1,0 +1,10 @@
+D:\back-end\MetodosProcedimientosRecursividad\ConsoleApp6\obj\Debug\netcoreapp2.1\Ejercicio7.csproj.CoreCompileInputs.cache
+D:\back-end\MetodosProcedimientosRecursividad\ConsoleApp6\obj\Debug\netcoreapp2.1\Ejercicio7.AssemblyInfoInputs.cache
+D:\back-end\MetodosProcedimientosRecursividad\ConsoleApp6\obj\Debug\netcoreapp2.1\Ejercicio7.AssemblyInfo.cs
+D:\back-end\MetodosProcedimientosRecursividad\ConsoleApp6\bin\Debug\netcoreapp2.1\Ejercicio7.deps.json
+D:\back-end\MetodosProcedimientosRecursividad\ConsoleApp6\bin\Debug\netcoreapp2.1\Ejercicio7.runtimeconfig.json
+D:\back-end\MetodosProcedimientosRecursividad\ConsoleApp6\bin\Debug\netcoreapp2.1\Ejercicio7.runtimeconfig.dev.json
+D:\back-end\MetodosProcedimientosRecursividad\ConsoleApp6\bin\Debug\netcoreapp2.1\Ejercicio7.dll
+D:\back-end\MetodosProcedimientosRecursividad\ConsoleApp6\bin\Debug\netcoreapp2.1\Ejercicio7.pdb
+D:\back-end\MetodosProcedimientosRecursividad\ConsoleApp6\obj\Debug\netcoreapp2.1\Ejercicio7.dll
+D:\back-end\MetodosProcedimientosRecursividad\ConsoleApp6\obj\Debug\netcoreapp2.1\Ejercicio7.pdb
