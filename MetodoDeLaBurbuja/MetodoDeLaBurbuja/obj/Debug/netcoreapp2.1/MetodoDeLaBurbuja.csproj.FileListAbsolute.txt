@@ -1,0 +1,11 @@
+D:\back-end\MetodoDeLaBurbuja\MetodoDeLaBurbuja\bin\Debug\netcoreapp2.1\MetodoDeLaBurbuja.deps.json
+D:\back-end\MetodoDeLaBurbuja\MetodoDeLaBurbuja\bin\Debug\netcoreapp2.1\MetodoDeLaBurbuja.runtimeconfig.json
+D:\back-end\MetodoDeLaBurbuja\MetodoDeLaBurbuja\bin\Debug\netcoreapp2.1\MetodoDeLaBurbuja.runtimeconfig.dev.json
+D:\back-end\MetodoDeLaBurbuja\MetodoDeLaBurbuja\bin\Debug\netcoreapp2.1\MetodoDeLaBurbuja.dll
+D:\back-end\MetodoDeLaBurbuja\MetodoDeLaBurbuja\bin\Debug\netcoreapp2.1\MetodoDeLaBurbuja.pdb
+D:\back-end\MetodoDeLaBurbuja\MetodoDeLaBurbuja\obj\Debug\netcoreapp2.1\MetodoDeLaBurbuja.csprojAssemblyReference.cache
+D:\back-end\MetodoDeLaBurbuja\MetodoDeLaBurbuja\obj\Debug\netcoreapp2.1\MetodoDeLaBurbuja.csproj.CoreCompileInputs.cache
+D:\back-end\MetodoDeLaBurbuja\MetodoDeLaBurbuja\obj\Debug\netcoreapp2.1\MetodoDeLaBurbuja.AssemblyInfoInputs.cache
+D:\back-end\MetodoDeLaBurbuja\MetodoDeLaBurbuja\obj\Debug\netcoreapp2.1\MetodoDeLaBurbuja.AssemblyInfo.cs
+D:\back-end\MetodoDeLaBurbuja\MetodoDeLaBurbuja\obj\Debug\netcoreapp2.1\MetodoDeLaBurbuja.dll
+D:\back-end\MetodoDeLaBurbuja\MetodoDeLaBurbuja\obj\Debug\netcoreapp2.1\MetodoDeLaBurbuja.pdb

@@ -1,0 +1,11 @@
+D:\back-end\Array\ConsoleApp1\bin\Debug\netcoreapp2.1\Ejercicio0.deps.json
+D:\back-end\Array\ConsoleApp1\bin\Debug\netcoreapp2.1\Ejercicio0.runtimeconfig.json
+D:\back-end\Array\ConsoleApp1\bin\Debug\netcoreapp2.1\Ejercicio0.runtimeconfig.dev.json
+D:\back-end\Array\ConsoleApp1\bin\Debug\netcoreapp2.1\Ejercicio0.dll
+D:\back-end\Array\ConsoleApp1\bin\Debug\netcoreapp2.1\Ejercicio0.pdb
+D:\back-end\Array\ConsoleApp1\obj\Debug\netcoreapp2.1\Ejercicio0.csprojAssemblyReference.cache
+D:\back-end\Array\ConsoleApp1\obj\Debug\netcoreapp2.1\Ejercicio0.csproj.CoreCompileInputs.cache
+D:\back-end\Array\ConsoleApp1\obj\Debug\netcoreapp2.1\Ejercicio0.AssemblyInfoInputs.cache
+D:\back-end\Array\ConsoleApp1\obj\Debug\netcoreapp2.1\Ejercicio0.AssemblyInfo.cs
+D:\back-end\Array\ConsoleApp1\obj\Debug\netcoreapp2.1\Ejercicio0.dll
+D:\back-end\Array\ConsoleApp1\obj\Debug\netcoreapp2.1\Ejercicio0.pdb
