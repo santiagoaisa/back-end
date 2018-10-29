@@ -1,0 +1,10 @@
+D:\back-end\ExamenEscrito\ConsoleApp17\bin\Debug\netcoreapp2.1\Ejercicio18.deps.json
+D:\back-end\ExamenEscrito\ConsoleApp17\bin\Debug\netcoreapp2.1\Ejercicio18.runtimeconfig.json
+D:\back-end\ExamenEscrito\ConsoleApp17\bin\Debug\netcoreapp2.1\Ejercicio18.runtimeconfig.dev.json
+D:\back-end\ExamenEscrito\ConsoleApp17\bin\Debug\netcoreapp2.1\Ejercicio18.dll
+D:\back-end\ExamenEscrito\ConsoleApp17\bin\Debug\netcoreapp2.1\Ejercicio18.pdb
+D:\back-end\ExamenEscrito\ConsoleApp17\obj\Debug\netcoreapp2.1\Ejercicio18.csproj.CoreCompileInputs.cache
+D:\back-end\ExamenEscrito\ConsoleApp17\obj\Debug\netcoreapp2.1\Ejercicio18.AssemblyInfoInputs.cache
+D:\back-end\ExamenEscrito\ConsoleApp17\obj\Debug\netcoreapp2.1\Ejercicio18.AssemblyInfo.cs
+D:\back-end\ExamenEscrito\ConsoleApp17\obj\Debug\netcoreapp2.1\Ejercicio18.dll
+D:\back-end\ExamenEscrito\ConsoleApp17\obj\Debug\netcoreapp2.1\Ejercicio18.pdb
