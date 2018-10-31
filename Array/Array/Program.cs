@@ -22,6 +22,8 @@ namespace Array
         {
             int[] vector = new int[tamañovector];
 
+            string [,] hola= new string[2,1];
+
             int numero = 1;
             int i = 0;
             while (i<tamañovector)

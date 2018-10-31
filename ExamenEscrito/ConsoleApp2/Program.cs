@@ -15,8 +15,8 @@ namespace ConsoleApp2
             double montoCompra = Double.Parse(Console.ReadLine());
 
             double porcentajeDescuento = 15;
-            
-            double descuento = Math.Round(montoCompra * (porcentajeDescuento / 100), 2)
+
+            double descuento = Math.Round(montoCompra * (porcentajeDescuento / 100), 2);
 
             Console.WriteLine($"Su compra es por {montoCompra} , sin embargo ud tiene un descuento del 15% que equivale a {descuento}");
             Console.WriteLine($"Su total a pagar es de {montoCompra-descuento}");

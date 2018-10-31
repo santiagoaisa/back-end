@@ -16,8 +16,6 @@ namespace ConsoleApp4
             {
                 Console.WriteLine("Ingrese la longitud del array\n");
                 tamaño = Int32.Parse(Console.ReadLine());
-
-
             }
             catch (FormatException e)
             {
