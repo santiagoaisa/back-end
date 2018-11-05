@@ -1,0 +1,11 @@
+D:\back-end\Clases\Clases\bin\Debug\netcoreapp2.1\Clases.deps.json
+D:\back-end\Clases\Clases\bin\Debug\netcoreapp2.1\Clases.runtimeconfig.json
+D:\back-end\Clases\Clases\bin\Debug\netcoreapp2.1\Clases.runtimeconfig.dev.json
+D:\back-end\Clases\Clases\bin\Debug\netcoreapp2.1\Clases.dll
+D:\back-end\Clases\Clases\bin\Debug\netcoreapp2.1\Clases.pdb
+D:\back-end\Clases\Clases\obj\Debug\netcoreapp2.1\Clases.csprojAssemblyReference.cache
+D:\back-end\Clases\Clases\obj\Debug\netcoreapp2.1\Clases.csproj.CoreCompileInputs.cache
+D:\back-end\Clases\Clases\obj\Debug\netcoreapp2.1\Clases.AssemblyInfoInputs.cache
+D:\back-end\Clases\Clases\obj\Debug\netcoreapp2.1\Clases.AssemblyInfo.cs
+D:\back-end\Clases\Clases\obj\Debug\netcoreapp2.1\Clases.dll
+D:\back-end\Clases\Clases\obj\Debug\netcoreapp2.1\Clases.pdb

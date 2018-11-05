@@ -1,0 +1,11 @@
+D:\back-end\Array\ConsoleApp8\obj\Debug\netcoreapp2.1\Ejercicio9.csproj.CoreCompileInputs.cache
+D:\back-end\Array\ConsoleApp8\obj\Debug\netcoreapp2.1\Ejercicio9.AssemblyInfoInputs.cache
+D:\back-end\Array\ConsoleApp8\obj\Debug\netcoreapp2.1\Ejercicio9.AssemblyInfo.cs
+D:\back-end\Array\ConsoleApp8\bin\Debug\netcoreapp2.1\Ejercicio9.deps.json
+D:\back-end\Array\ConsoleApp8\bin\Debug\netcoreapp2.1\Ejercicio9.runtimeconfig.json
+D:\back-end\Array\ConsoleApp8\bin\Debug\netcoreapp2.1\Ejercicio9.runtimeconfig.dev.json
+D:\back-end\Array\ConsoleApp8\bin\Debug\netcoreapp2.1\Ejercicio9.dll
+D:\back-end\Array\ConsoleApp8\bin\Debug\netcoreapp2.1\Ejercicio9.pdb
+D:\back-end\Array\ConsoleApp8\obj\Debug\netcoreapp2.1\Ejercicio9.csprojAssemblyReference.cache
+D:\back-end\Array\ConsoleApp8\obj\Debug\netcoreapp2.1\Ejercicio9.dll
+D:\back-end\Array\ConsoleApp8\obj\Debug\netcoreapp2.1\Ejercicio9.pdb
