@@ -31,7 +31,7 @@ namespace ConsoleApp8
 
                     if (listaVenta[v, 1] == producto)
                     {
-                        cantidad = cantidad=Int32.Parse(listaVenta[v, 2]);
+                        cantidad = cantidad+Int32.Parse(listaVenta[v, 2]);
                     }
                        
                 }

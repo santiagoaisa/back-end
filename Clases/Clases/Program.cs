@@ -1,5 +1,5 @@
 ﻿using System;
-
+using MisClases;
 
 namespace Clases
 {
@@ -9,7 +9,7 @@ namespace Clases
         {
             Console.WriteLine("Hello World!");
 
-            Vehiculo ve = new Vehiculo();
+            Vehiculo vehiculo=new 
 
             Console.ReadLine();
         }
